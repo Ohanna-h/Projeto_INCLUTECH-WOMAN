@@ -1,0 +1,42 @@
+h1 {
+    /* Cor de Texto no CSS */
+    color: red;
+    /* Tamanho da Fonte */
+    font-size: 25px;
+    /* Colocar o texto sublinhado */
+    text-decoration: underline; 
+    
+}
+
+.red{
+    color: aqua;
+}
+p{   
+    /* Cor de Texto no CSS */
+    color: blue;
+    /* Fonte para destacar um texto ou informação como negrito */
+    font-weight: bold;
+}
+
+p{
+    /* Prioridade de cores */
+    color: blueviolet;
+}
+/* Cor de fundo de um site usando o CSS background-color */
+.header{
+    background-color: blue;
+    /* padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    padding-top: 100px; */
+
+    padding: 50px;
+    border: 5px solid red;
+
+    /* margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px; */
+
+    margin: 20px;
+}
